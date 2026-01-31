@@ -1,6 +1,5 @@
-# Smartwatch-Market-Analysis
+# Smartwatch-Market-Analysis EDA Project
 End-to-end web scraping and exploratory data analysis of Amazon smartwatches
-# Smartwatch Web Scraping & EDA Project
 
 ## Project Overview
 This project performs end-to-end web scraping and exploratory data analysis (EDA) on smartwatch data collected from Amazon.  
